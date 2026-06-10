@@ -1,4 +1,4 @@
-# 
+# Turbo AutoGPT extensions. Avec indexation des données et agents collaboratifs — optimisé pour des performances et une efficacité maximales.
 
 
 
